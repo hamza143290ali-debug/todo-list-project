@@ -80,7 +80,7 @@ body{
 }
 .delete{
 width:60px; 
-    background-color:purple; 
+    background-color:red; 
     padding:5px; 
     border-radius:5px; 
     color:white; 
@@ -97,4 +97,5 @@ width:60px;
     justify-content:center; 
     align-items:center;  
     
+
 }
