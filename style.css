@@ -10,13 +10,13 @@ body{
     align-items:center; 
     height:100vh; 
     width:100vw; 
-    background:#471396; 
+    background:azure; 
     
 }
 
 .main{
     width:400px; 
-    border:1px solid blue; 
+    border:2px solid white; 
     display:flex; 
     flex-direction:column; 
     justify-content:flex-start;  
@@ -55,7 +55,6 @@ body{
 .list{
     list-style:none; 
     width:350px;  
-    border:none; 
     border-radius:15px; 
     padding:25px; 
     outline:none; 
@@ -66,6 +65,7 @@ body{
     justify-content: space-evenly;
     align-items:center; 
     color:white; 
+    border:2px solid blue; 
 
 }
 .edit{
@@ -80,7 +80,7 @@ body{
 }
 .delete{
 width:60px; 
-    background-color:red; 
+    background-color:purple; 
     padding:5px; 
     border-radius:5px; 
     color:white; 
