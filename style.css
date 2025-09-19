@@ -44,13 +44,16 @@ body{
 }
 #todoin{ 
     height:40px; 
-    border:none; 
+    border:5px solid yellow; 
     border-radius:15px; 
     padding:25px; 
     outline:none; 
     font-size:1.4rem; 
     margin:20px;
     box-shadow:4px 3px 4px blue; 
+    background-color:black; 
+    color:white; 
+    
 }
 .list{
     list-style:none; 
